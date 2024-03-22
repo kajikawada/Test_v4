@@ -1,3 +1,5 @@
 Print("This is a test script")
 print("Hello world!")
 print("And addition")
+print("another addition")
+print("Today is 22 March")
